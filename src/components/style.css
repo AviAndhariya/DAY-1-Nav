@@ -1,0 +1,22 @@
+.container {
+  display: flex;
+  background-color: black;
+  color: white;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.second {
+  display: flex;
+  /* margin-right: 10px; */
+}
+
+p {
+  margin-right: 10px;
+}
+
+.btn {
+  padding: 10px;
+  border-radius: 20px;
+  background-color: skyblue;
+}
